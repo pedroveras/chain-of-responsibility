@@ -22,8 +22,8 @@ class ValidationServiceTest {
     private static final String ACCOUNT = "1234";
     private static final String AGENCY = "587";
     private static final String NAME = "Pedro";
-    private static final String SEGMENT = "Premium";
     private static final String SEGMENT_STANDARD = "Standard";
+    private static final String SEGMENT = "Premium";
 
     @InjectMocks
     private ValidationService validationService;
